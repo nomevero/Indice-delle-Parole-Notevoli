@@ -1,5 +1,8 @@
 # Indice delle Parole Notevoli
 
-[Raqqa](raqqa.md)
+[Raqqapriccianti](raqqa.md)
+[Putenti](pute.md)
+[Sublimi](subl.md)
+[Neologismi](neo.md)
 
-[Edit](https://github.com/magiwanders/Indice-delle-Parole-Notevoli/edit/master/README.md)
+[edit](https://github.com/magiwanders/Indice-delle-Parole-Notevoli/edit/master/README.md)
