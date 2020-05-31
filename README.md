@@ -1,3 +1,3 @@
 # Indice delle Parole Notevoli
 
-[Raqqa] (raqqa.md)
+[Raqqa](raqqa.md)
